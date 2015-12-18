@@ -1,0 +1,1 @@
+<script>alert('Mohon Maaf anda tidak bisa akses halaman ini'); window.location = '../index.php'</script>"
